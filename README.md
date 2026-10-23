@@ -1,4 +1,4 @@
-🧬 A Study on the Correlation Between Cancer Metabolism and Physical Activity.
+A Study on the Correlation Between Cancer Metabolism and Physical Activity.
 
 ## Overview
 
@@ -19,12 +19,12 @@ Methodology
 2. Python-based simulation using Recon3D model
 3. Analysis of metabolic flux changes under different exercise conditions
 
-
 Tools Used
-
 1. Python
-2. Recon3D metabolic model
-3. Jupyter Notebook
+2. Google Colaboratory
+3. Visual Studio Code
+4. Recon3D metabolic model
+5. Jupyter Notebook
 
 
 Key Findings
